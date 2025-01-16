@@ -27,7 +27,7 @@ A web application to assist players with Rummikub game strategies and moves.
 1. Clone the repository:
 
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/iiiyu/rummikub-game-assistant.git
 cd rummikub-game-assistant-web
 ```
 
